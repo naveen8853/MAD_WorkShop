@@ -429,9 +429,12 @@ public class SecondActivity extends AppCompatActivity {
 
 ## OUTPUT:
 
-<img src="pavan1.png" width="400">
-<img src="pavan2.png" width="400">
-<img src="pavan3.png" width="400">
+![naveen1](https://github.com/user-attachments/assets/c136841e-fe93-4439-b171-085e88098801)
+
+![naveen2](https://github.com/user-attachments/assets/54476d73-3891-4e8f-af56-19021accdaac)
+
+![naveen3](https://github.com/user-attachments/assets/ad3c536b-6c31-4c5c-ab8f-f4d97fa6ffbe)
+
 
 ## RESULT:
 
